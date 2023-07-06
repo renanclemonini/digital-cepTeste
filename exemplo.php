@@ -15,8 +15,9 @@ $uf = $resultado['uf'];
 
 $resultado['complemento'] = "Casa 6, lote 3";
 
-// echo "$rua fica no bairro $bairro em $cidade - $uf";
-
+echo "$rua fica no bairro $bairro em $cidade - $uf";
+echo "\n";
+echo "\n";
 print_r($resultado);
 
 ?>
