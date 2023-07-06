@@ -1,0 +1,24 @@
+{
+    "name": "acer/digital-cep",
+    "description": "Curso de desenvolvimento avançado em PHP",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Renan Sotelo Clemonini",
+            "email": "106163654+renanclemonini@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Search": "src/"
+        },
+        "psr-4": {
+            "Acer\\DigitalCep\\": "src/"
+        }
+    }
+}
+ 
